@@ -124,7 +124,7 @@ header{
     background-image: url("../img/fundo1_mobile.jpg");
     background-size: cover;
     width: 100%;
-    height: 132%;
+    height: 155%;
     display: flex;
     flex-wrap: wrap;
 }
@@ -154,8 +154,8 @@ h1 br{ /*IGNORA O ESPAÇAMENTO <BR> DO HTML NO TÍTULO 1*/
     color: white;
     font-size: 27px;
     font-weight: bold;
-    padding-top: 120px;
-    padding-bottom: 30px;
+    padding-top: 40%;
+    padding-bottom: 5%;
 }
 
 .subtitulo1{
@@ -166,7 +166,7 @@ h1 br{ /*IGNORA O ESPAÇAMENTO <BR> DO HTML NO TÍTULO 1*/
     font-size: 18.5px;
     font-weight: bold;
     line-height: 1.5;
-    padding-bottom: 470px;
+    padding-bottom: 550px;
 }
 
 .botao{
@@ -199,8 +199,8 @@ h1 br{ /*IGNORA O ESPAÇAMENTO <BR> DO HTML NO TÍTULO 1*/
 }
 
 .cont-direito-mobile img{
-    height: 100%;
-    padding-top: 18%;
+    height: 78%;
+    padding-top: 30%;
 }
 
 /*SESSAO 1*/
