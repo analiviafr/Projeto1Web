@@ -204,7 +204,7 @@ header{
 /*bloco para imagem sobreposta do celular*/
 .cont-direito{ /*IMAGEM DO CELULAR COM AS DIMENSÕES ALTERADAS*/
     height: 80%;
-    width: 80%;
+    width: 100%;
     display: flex;
     flex-wrap: nowrap;
     position: absolute;
